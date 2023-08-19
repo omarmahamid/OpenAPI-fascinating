@@ -1,0 +1,4 @@
+org/training/api/TrainingApi.class
+org/training/api/Main.class
+org/training/api/model/TrainingDTO.class
+org/training/api/ApiUtil.class
